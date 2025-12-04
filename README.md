@@ -1,5 +1,6 @@
 # Aero
-A very basic search engine. 
+
+A very basic search engine for Android 
 
 ![Icon](https://github.com/user-attachments/assets/d62c2421-aa36-4613-8d76-72d9cfba77fd)
 
