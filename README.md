@@ -7,8 +7,9 @@ A very basic search engine for Android
 
 # It's not done. 
 
-It's not finished yet, but don't worry. We're still working on the project. We'll let you know when everything related to the Aero browser and the repository is removed. 
+It's not finished yet, but don't worry. We're still working on the project.
 
 # Paid version 
 
 Coming soon... Date: ??/??/2034 
+Reason: .. / -.-. .- -. - / .... .- ...- . / -- . .-. -.-. .- -.. --- / .--. .- --. --- / ..- -. - .. .-.. / ..--- ----- ...-- ....- .-.-.
